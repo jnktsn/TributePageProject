@@ -1,0 +1,75 @@
+body {
+  background-color: #e8e9ea;
+  margin-top:20px;
+  font-size: 16px;
+  
+}
+
+
+
+
+h3 :not(#exmpt) {
+  padding: 10px;
+}
+
+#pic1 {
+  padding:10px;
+  background-color: white;
+  box-shadow: 5px 5px 5px #888888;
+  
+}
+
+
+img {
+  width: 100%;
+  }
+#headings > li, .qa > li, .qa > h3 {
+  font-style: italic;
+  
+  color: #505050;
+  padding: 10px;
+}
+.slct, li {
+  margin-bottom: 20px;
+}
+ul > li, li + p {
+  
+  font-weight: bold;
+}
+
+
+
+
+
+.qa {
+  background-color: white;
+  padding: 10px;
+  box-shadow: 5px 5px 5px #888888;
+  margin-bottom: 10px;
+}
+.mytest {
+  display: flex;
+  justify-content: center;
+}
+.slct {
+  box-shadow: 5px 5px 5px #888888;
+}
+ol {
+    padding-left: 0.5em;
+}
+
+
+
+ol li {
+     
+    list-style-position: outside; 
+    margin-left: 2em; 
+}
+
+ul {
+  list-style-type: none;
+}
+#lst {
+  margin-left: .5em;
+}
+
